@@ -94,8 +94,7 @@
       <UseFullPaths>false</UseFullPaths>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);X86_32;WINDOWS;DR_LOG_DEFINE_COMPATIBILITY;WIN32;_WINDOWS;NDEBUG;CMAKE_INTDIR="Debug";winafl_EXPORTS</PreprocessorDefinitions>
       <ObjectFileName>$(IntDir)</ObjectFileName>
-      <DebugInformationFormat>
-      </DebugInformationFormat>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
     </ClCompile>
     <ResourceCompile>
       <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;X86_32;WINDOWS;DR_LOG_DEFINE_COMPATIBILITY;_WINDOWS;NDEBUG;CMAKE_INTDIR=\"Debug\";winafl_EXPORTS</PreprocessorDefinitions>
