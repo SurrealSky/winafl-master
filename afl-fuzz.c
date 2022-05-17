@@ -8534,6 +8534,8 @@ int main(int argc, char** argv) {
   else
     use_argv = argv + optind;
 
+
+
   perform_dry_run(use_argv);
 
   cull_queue();
