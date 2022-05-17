@@ -8525,6 +8525,7 @@ int main(int argc, char** argv) {
 
   if (!out_file) setup_stdio_file();
 
+
   check_binary(argv[optind]);
 
   start_time = get_cur_time();
