@@ -982,6 +982,7 @@ options_init(client_id_t id, int argc, const char *argv[])
 DR_EXPORT void
 dr_client_main(client_id_t id, int argc, const char *argv[])
 {
+    Sleep(10000);
     drreg_options_t ops = {sizeof(ops), 2 /*max slots needed: aflags*/, false};
 
     dr_set_client_name("WinAFL", "https://github.com/googleprojectzero/winafl/issues");
