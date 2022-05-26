@@ -6,9 +6,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\work\program\winafl-master\CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="D:\work\program\winafl-master\custom_winafl_server.def">
       <Filter>Source Files</Filter>
     </None>

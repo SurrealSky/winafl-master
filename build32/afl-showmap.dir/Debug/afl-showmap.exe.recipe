@@ -2,9 +2,6 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\work\program\winafl-master\build32\Debug\ZERO_CHECK</FullPath>
-    </ProjectOutput>
-    <ProjectOutput>
       <FullPath>D:\work\program\winafl-master\build32\bin\Debug\afl-showmap.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>

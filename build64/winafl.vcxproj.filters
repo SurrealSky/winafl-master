@@ -9,9 +9,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\work\program\winafl-master\CMakeLists.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <Filter Include="Source Files">
       <UniqueIdentifier>{E3636B58-FB15-3A0A-877D-B8E69AF027B7}</UniqueIdentifier>
     </Filter>
